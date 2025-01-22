@@ -1,6 +1,6 @@
-pandas==1.5.3
-numpy==1.23.4
+pandas
+numpy
 streamlit
 scikit-learn
-pip==23.0.1
+pip
 gdown
